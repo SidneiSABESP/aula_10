@@ -1,0 +1,2 @@
+nome = "SIDNEI"  
+print(nome)
